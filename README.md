@@ -1,2 +1,2 @@
 # hospital_management_system
-hospital_management can check the entry of patient for history of patient as well as helpful for hospital management also for their record
+A hospital management system can effectively track patient entries, maintain detailed medical histories, and streamline overall hospital operations. It serves as a valuable tool for both healthcare professionals and administrative staff by ensuring accurate record-keeping, improving patient care, and facilitating seamless management of hospital resources. Additionally, such systems enhance communication, optimize workflow efficiency, and provide a centralized database for easy access to patient information and other critical hospital records.
